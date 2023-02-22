@@ -19,7 +19,7 @@ We need to
 ### Optional
 If we have a time, we want to
 - (Design) Add the `Top app bar` and update the design 🏰
-- (Testing) Add [JUnit5](https://github.com/mannodermaus/android-junit5) and `mockk`
+- (Testing) Add [JUnit5](https://github.com/mannodermaus/android-junit5) and `mockk` 🤸
 - (Gradle) Add a `version catalog` 📗
 - (Future growth) `Modularize` the app ✌🏻
 - (Future growth) Add `Domain layer` 🚴‍️
